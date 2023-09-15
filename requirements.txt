@@ -1,0 +1,13 @@
+# Core packages
+## Django >=4.1 for Asynchronous Support
+Django>=4.1
+
+## https://github.com/encode/django-rest-framework/tree/master
+djangorestframework
+ # We'll be using this for the code highlighting
+pygments  
+# REST Framework XML
+## https://github.com/jpadilla/django-rest-framework-xml
+djangorestframework-xml
+
+requests
